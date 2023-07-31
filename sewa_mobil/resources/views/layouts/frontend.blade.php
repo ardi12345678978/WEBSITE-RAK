@@ -49,7 +49,7 @@
               <a class="nav-link" href="{{route('contact')}}">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="login">Login</a>
+              <a class="nav-link" href="admin/dashboard">admin</a>
             </li>
           </ul>
         </div>
